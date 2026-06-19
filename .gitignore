@@ -1,0 +1,14 @@
+# Environments
+.env
+.env.*
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Databases / Vector stores
+chroma_db/
